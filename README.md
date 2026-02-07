@@ -8,15 +8,15 @@ The best-performing model is deployed using a Flask web application for real-tim
 ---
 
 ## Organization / Company
-[Add Company / Institution Name Here]
+[INFOTACT SOLUTIONS]
 
 ---
 
 ## Team Members
-- [Team Member 1 Name] – [Roll Number]
-- [Team Member 2 Name] – [Roll Number]
-- [Team Member 3 Name] – [Roll Number]
-- [Team Member 4 Name] – [Roll Number]
+- [ Sk.Salma ] – [TEAM LEADER]
+- [ B.Rohith] – [TEAM MEMBER]
+- [ Kunalika Guha] – [TEAM MEMBER]
+- [ Ofeh-Mamuzoh Elozino Shekinah] – [TEAM MEMBER]
 
 ---
 
