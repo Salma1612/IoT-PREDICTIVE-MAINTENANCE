@@ -58,9 +58,9 @@ The following models were trained and evaluated:
 
 | Model | Accuracy |
 |------|---------|
-| Logistic Regression | XX% |
-| Random Forest | XX% |
-| XGBoost | **XX%** |
+| Logistic Regression | 95.0% |
+| Random Forest | 97.0% |
+| XGBoost | **97.2%** |
 
 The XGBoost classifier achieved the best overall performance and was selected as the final model.
 
